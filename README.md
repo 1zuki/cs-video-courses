@@ -528,6 +528,7 @@ Table of Contents
   - [Foundations of Data Analysis (Fall 2020)- University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqB1sx1eheVmLtp2EN7osYt)
   - [Introduction to Data Science (IDS) - Wil van der Aalst (RWTH Aachen University)](https://www.youtube.com/playlist?list=PLG_1ZxIPXO0vReKHuzL-n--f4iO2JIjcJ) ([2021-2022 edition](PLG_1ZxIPXO0vTTfheRNDhq4vNYAdJBUyC))
   - [Machine Learning Class (Winter 2019-2020) - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kTOLHk3a2ySNujmjan_AcZ1)
+  - [Toronto ECE 1513 Introduction to Machine Learning winter 2026, by Ali Bereyhi](https://youtube.com/playlist?list=PLcFgNUo9s_Aj9a8fXwMdqfEk3_h5RtoLs)
 
   
 - #### **Data Mining**
@@ -610,6 +611,9 @@ Table of Contents
   - [CS 6966/5966 Interpretability of LLMs (Spring 2026) - University of Utah](https://utah-llm-interpretability.notion.site/s26)
   - [Deep Graph Learning (DGL, 2025) - Prof. Islem Rekik - Imperial College London](https://www.youtube.com/playlist?list=PLug43ldmRSo14Y_vt7S6vanPGh-JpHR7T)
   - [Intuitive Deep Learning Series](https://www.youtube.com/playlist?list=PLug43ldmRSo1gtn-CPLqVXRd7n0jhC276)
+  - [Toronto ECE 1508 Applied Deep Learning winter 2026, by Ali Bereyhi](https://bereyhi-courses.github.io/dl-utoronto/lectures/)[Youtube](https://youtube.com/playlist?list=PLcFgNUo9s_AjLubVnhoQX3nOz4hJsfnd7)
+  - [UC Berkeley CS 182 / 282a Deep Learning fall 2025, by Gireeja Ranade & Anant Sahai](https://berkeley-cs182.github.io/fa25/)[Youtube](https://youtube.com/playlist?list=PLIygTcviGPKCJO2wgN4rjqRFozoPjvWQs)
+  - [SNU M2177.43 Introduction to Deep Learning spring 2026, by Hyun Oh Song](https://www.youtube.com/@hyunohsong1952/videos)
 
   
 - #### **Reinforcement Learning**
@@ -1270,7 +1274,6 @@ Table of Contents
 - [Computer Graphics Fall 2011, Barbara Hecker](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
 - [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
 - [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
-introduction/id389259246))
 - [Computational Geometry - IIT Delhi](https://nptel.ac.in/courses/106102011/)
 - [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
 - [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
@@ -1387,6 +1390,7 @@ introduction/id389259246))
 - [Introduction to Neural Computation - MIT OCW](https://ocw.mit.edu/courses/brain-and-cognitive-sciences/9-40-introduction-to-neural-computation-spring-2018/)
 - [Data Science for Biologists - Steve Brunton](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQz4BMoGSsN8cbt8pHlokhV)
 - [Big Data and Biological Networks IIT Madras](https://www.youtube.com/playlist?list=PLZ2ps__7DhBapdXdBZInSjonWNAUL6Ycm)
+- [Johns Hopkins Mathematical foundations of Biomedical Engineering, by Reza Shadmehr](https://youtube.com/playlist?list=PLbROvBk7LN5SMCqyzI7MB6emGVgvTdCJl)
 
 
 ------------------------------
@@ -1516,6 +1520,8 @@ introduction/id389259246))
 - [ENAE 788M: Hands On Autonomous Aerial Robotics - University of Maryland](https://prg.cs.umd.edu/enae788m)
 - [Robot Learning 2025: Foundational Models for Robotics and Scaling DeepRL - Montreal Robotics](https://www.youtube.com/playlist?list=PLMe2pHxzxHp-UJ1jd-uuGSGK7P7Phtm-f)
 - [Mila Robot Learning Seminar - Montreal Robotics](https://www.youtube.com/@MontrealRobotics/playlists)
+- [Johns Hopkins Learning, Estimation, and Control spring 2026, by Reza Shadmehr](https://temp.shadmehrlab.org/courses_learning)[Youtube](https://youtube.com/playlist?list=PLbROvBk7LN5SA7yzmmV7-sLnaXBc3YnHO)
+- [SUSTech ME424 Modern Control and Estimation ( Kalman Filter Theory ) fall 2021, by Wei Zhang](https://wzhanglab.site/teaching/moderncontrolestimation/)[Youtube 1](https://youtube.com/playlist?list=PLYkCanigA7S4N4FAXu4ABmwuC7yHDL6_v)[Youtube 2](https://youtube.com/playlist?list=PLYkCanigA7S4AWI0INZJ5e0WrxFlp4oWH)
 
 
 ------------------------------
@@ -1589,7 +1595,6 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
   - [Gatech ECE4795 GPU Programming for Video Games, Summer 2021](https://www.youtube.com/playlist?list=PLOunECWxELQQwayE8e3WjKPJsTGKknJ8w)
   - [COMP 4300 - C++ Game Programming, Memorial University, Fall 2024 - David Churchill](https://www.youtube.com/playlist?list=PL_xRyXins84_Sq7yZkxGP_MgYAH-Zo8Uu)
   - [COMP 4303 - AI for Video Games, Memorial University, Winter 2023 - David Churchill](https://www.youtube.com/playlist?list=PL_xRyXins84--QDSV3_7CyPZrHEfVXKm4)
-
 - **Geospatial**
   - [Introduction to Spatial Data Science, Autumn 2016, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkr2vtYgbP4hs44HO_s_qEO)
   - [Spatial Regression Analysis, Spring 2017, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT)
@@ -1637,6 +1642,7 @@ Pricing Theory I / Applied Probability for Mathematical Finance - University of 
 - [Purdue ME 597 Distributed Energy Resources Spring 2024, by Kevin J. Kircher](https://www.youtube.com/playlist?list=PLcZDMdEnS08l_z5LVDQrEcyFrBsHlKVXd)
 - [Stanford AA228V/CS238V Validation of Safety Critical Systems Winter 2025, by Sydney Michelle Katz](https://www.youtube.com/playlist?list=PLoROMvodv4rOq1LMLI8U7djzDb8--xpaC)
 - [RES.1-002 - Introduction to R and Geographic Information Systems (GIS) - MIT - Fall 2023](https://ocw.mit.edu/courses/introduction-to-r-and-gis-fall-2023/pages/about-the-practical-sessions/)
+- [CMU 17 803 Empirical Methods spring 2026, by Bogdan Vasilescu](https://bvasiles.github.io/empirical-methods/)[Youtube](https://youtube.com/playlist?list=PLuPUOEODcOms8QixBR1aqN8czoHYU97PE)
 
 ------------------------------
 
